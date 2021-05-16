@@ -9,4 +9,4 @@ def is_Leap(y) :                # 윤년 판별 함수
     return("0")
 
 year = int(input())     # 연도를 입력 받고
-print(is_Leap(year))    # 판별 결과를 출력한다
+print(is_Leap(year))    # 판별 결과를 출력한다.
