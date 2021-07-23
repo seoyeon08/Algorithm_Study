@@ -1,4 +1,4 @@
-a, b = map(int, input().split()) # a, b를 각각 입력받는다
+a, b = map(str, input().split()) # a, b를 각각 입력받는다
 
 # 역순으로 저장하기
 a = int(a[::-1]) 
